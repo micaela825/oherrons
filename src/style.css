@@ -1,0 +1,37 @@
+.container {
+  background-color: floralwhite;
+}
+
+#heading {
+  text-align: center;
+  padding-top: 15%;
+}
+
+#homePhoto {
+  width: 60%;
+  height: 30%;
+  margin-top: 5%;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 20%;
+}
+
+#navBar {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: flex-start;
+  position: top;
+}
+
+.galleryPhotos img {
+  height: 30%;
+  width: 15%;
+}
+
+#links a {
+  display: flex;
+  flex-direction: column;
+  color: cornflowerblue;
+  text-decoration: none;
+}
