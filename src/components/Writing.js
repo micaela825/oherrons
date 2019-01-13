@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 // could better do this with public files & fs read file
 class Writing extends Component {
   render() {
